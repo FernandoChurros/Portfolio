@@ -1,0 +1,16 @@
+.banner {
+   background: url("../assets/267361.jpg") no-repeat left/cover;
+   height: calc(100vh - 80px);
+}
+
+.banner_wrapper {
+   position: relative;
+   background-color: hsla(329, 90%, 50%, .3);
+   color: hsla(329, 10%, 10%, .5);
+   /*border: 1px dashed hsla(329, 90%, 50%, .3);*/
+   border-radius: 15px / 100px;
+   padding: 1rem;
+   width: max-content;
+   top: 10rem;
+   left: 2rem;
+}

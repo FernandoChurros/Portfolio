@@ -5,6 +5,7 @@
 
 .navigation_link {
    font-size: 1.4rem;
+   color: rgba(255,255,255, .7);
 }
 
 .navigation_link:not(:last-child) {
