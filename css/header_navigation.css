@@ -1,0 +1,22 @@
+.header_navigation {
+   width: max-content;
+   margin: 0 auto;
+}
+
+.navigation_link {
+   font-size: 1.4rem;
+   color: rgba(255,255,255, .7);
+}
+
+.navigation_link:not(:last-child) {
+   margin-right: 1.5rem;
+}
+
+.navigation_link {
+   transition: 200ms linear;
+}
+
+.navigation_link:hover {
+   color: hsl(329, 90%, 40%);
+   border-bottom: 2px dotted hsl(329, 90%, 50%);
+}

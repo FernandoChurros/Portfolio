@@ -10,7 +10,18 @@
    /*border: 1px dashed hsla(329, 90%, 50%, .3);*/
    border-radius: 15px / 100px;
    padding: 1rem;
-   width: max-content;
+   width: 400px;
    top: 10rem;
    left: 2rem;
+   text-align: center;
+}
+
+.link_tt {
+   font-size: 2rem;
+}
+.link_tt:hover {
+   text-decoration: underline;
+}
+.fernando {
+   display: none;
 }
