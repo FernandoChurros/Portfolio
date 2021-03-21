@@ -1,0 +1,11 @@
+.header {
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-end;
+   height: 72px;
+}
+
+.header_logo {
+   border: 3px solid #FF64B4;
+   border-radius: 50%;
+}
